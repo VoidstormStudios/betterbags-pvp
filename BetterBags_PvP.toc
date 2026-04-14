@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: BetterBags - PvP Gear
+## Notes: Adds a PvP Gear category to BetterBags based on seasonal item name patterns.
+## Author: Chiefmaster117
+## Version: v1.0.0
+## Dependencies: BetterBags
+## X-License: MIT
+main.lua
+filter.lua
