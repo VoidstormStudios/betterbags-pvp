@@ -2,7 +2,7 @@
 
 All notable changes to BetterBags - PvP Gear will be documented here.
 
-## [1.0.0] - 2026-04-14
+## [1.0.1] - 2026-04-14
 
 ### Added
 - Initial release
