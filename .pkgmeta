@@ -1,4 +1,4 @@
-package-as: BetterBags-PvP
+package-as: BetterBags_PVP
 required-dependencies:
   - betterbags
 manual-changelog:
