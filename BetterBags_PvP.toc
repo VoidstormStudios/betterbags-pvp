@@ -1,15 +1,16 @@
 ## Interface: 120000
 ## Title: BetterBags - PvP Gear
 ## Notes: Adds a PvP Gear category to BetterBags for tracking PvP items separately from PvE gear.
-## Author: YourName
-## Version: v1.0.0
+## Author: VoidstormStudios
+## Version: @project-version@
 ## IconTexture: Interface\Icons\pvpcurrency-honor-up
 ## Group: BetterBags
 ## Category: Bags & Inventory
 ## Dependencies: BetterBags
 ## X-License: MIT
-## X-Date: 2026-04-14T00:00:00Z
+## X-Date: @project-date-iso@
 ## X-Category: Bags & Inventory
-## X-Github: https://github.com/YourName/BetterBags_PVP
+## X-Github: https://github.com/VoidstormStudios/BetterBags_PVP
+## X-Curse-Project-ID: 1514408
 main.lua
 filter.lua
