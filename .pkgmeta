@@ -1,6 +1,6 @@
 package-as: BetterBags_PvP
 required-dependencies:
-  - betterbags
+  - better-bags
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
