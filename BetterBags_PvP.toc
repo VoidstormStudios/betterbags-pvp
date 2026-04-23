@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120500
 ## Title: BetterBags - PvP Gear
 ## Notes: Adds a PvP Gear category to BetterBags for tracking PvP items separately from PvE gear.
 ## Author: VoidstormStudios
