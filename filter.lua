@@ -21,6 +21,7 @@ local string_find = string.find
 local PVP_NAME_PATTERNS = {
     "Galactic Aspirant's",   -- Season 1 Honor (12.0)
     "Galactic Gladiator's",  -- Season 1 Conquest (12.0)
+    "Galactic Warmonger's"   -- Season 1 Warmode (12.0)
 }
 
 local CATEGORY_NAME = "PvP Gear"
